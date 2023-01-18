@@ -1,0 +1,6 @@
+module Pods_CodePushDemo_CodePushDemoTests {
+  umbrella header "Pods-CodePushDemo-CodePushDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

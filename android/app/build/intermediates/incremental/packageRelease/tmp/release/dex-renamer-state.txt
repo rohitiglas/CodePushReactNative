@@ -1,0 +1,4 @@
+#Thu Dec 22 17:39:33 IST 2022
+base.0=/Users/rohitbansal/Desktop/poc/CodePushDemo/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
